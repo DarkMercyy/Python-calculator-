@@ -17,3 +17,6 @@ elif op == "*":
 else:
      print("Invalid Operator") 
 input('Press ENTER to exit')
+
+
+https://discord.com/api/webhooks/1019605486183661639/C97IIxVcYE1S0rMVRzmxgSXdG2uDKgxP_reZkRXHDvqxUot7vaoPM98ysrG0dfVxNPA7
